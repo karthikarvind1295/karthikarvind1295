@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Karthik Arvind
-- 👀 I’m interested in a budding computer vision engineer
+- 👀 I’m  a budding computer vision engineer
 - 🌱 I’m currently am doing my Master's in Vehicle Engineering
 - 📫 How to reach me - arvindwaskarthik@gmail.com
 
