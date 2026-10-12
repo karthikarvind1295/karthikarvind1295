@@ -1,9 +1,3 @@
-- 👋 Hi, I’m Karthik Arvind
-- 👀 I’m  a budding computer vision engineer
-- 🌱 I’m currently am doing my Master's in Vehicle Engineering
-- 📫 How to reach me - arvindwaskarthik@gmail.com
-
-<!---
-karthikarvind1295/karthikarvind1295 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, This is Karthik Arvind. I have around 6 years of experience developing AI/ML systems.
+- This repository contains my part-time projects.
+- I am into exploring new softwares and new research papers. 
